@@ -7,7 +7,7 @@ import (
 	"github.com/d2r2/go-i2c"
 	"github.com/pkg/errors"
 
-	"github.com/zaquestion/go-envirophat"
+	"github.com/dchote/go-envirophat"
 )
 
 const (
